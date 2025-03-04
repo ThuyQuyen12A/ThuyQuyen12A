@@ -1,3 +1,5 @@
-form 
-{ 
-  background-color 
+h2{color: firebrick; font-family: Verdana; } 
+h3 { color:#B0E2FF } 
+label {font-size: 15px; font-weight:bold;}
+input {background-color: blue;} 
+textarea {background-color: ivory;} 
